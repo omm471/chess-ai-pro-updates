@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageName": "com.example.myemptyactivity",
   "latestVersionCode": 4,
-  "latestVersionName": "1.2.1",
+  "latestVersionName": "1.2",
   "minSdkVersion": 24,
   "apkUrl": "https://github.com/omm471/chess-ai-pro-updates/releases/download/v1.2.1/app-debug.apk",
   "sha256": "d2a2bb516c7a348cf60390ab78ea69cc3cb46c92e1ff9abf91fd564d1ea49b99",
