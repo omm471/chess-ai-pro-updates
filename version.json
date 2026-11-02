@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "packageName": "com.example.myemptyactivity",
-  "latestVersionCode": 5,
-  "latestVersionName": "1.4",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.5",
   "minSdkVersion": 24,
-  "apkUrl": "https://github.com/omm471/chess-ai-pro-updates/releases/download/v1.4/app-debug.apk",
-  "sha256": "951723dfbc586f3e46c70adbf42b281059e6525f0e0ea61c38e1750133368dbf",
-  "sizeBytes": 7627797,
+  "apkUrl": "https://github.com/omm471/chess-ai-pro-updates/releases/download/v1.5/app-debug.apk",
+  "sha256": "c09662ca410b9e9ed1a95fe3fdbb45dd2d7fb092053f7b3f3995ad791eedb45f",
+  "sizeBytes": 7638669,
   "changelog": [
-    "Fu*k You",
+    "Hell NaH , bruh!!!🤘🗿",
     "Preserved your existing games and settings."
   ]
 }
